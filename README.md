@@ -1,6 +1,3 @@
-# 2-Link-Robotic-Arm
-
-
 # What is a 2-link Robotic Arm?
 It is a Robotic Arm with 2 Degree of Freedom(DOF). It has two links which rotates in a 2-Dimensional plane with each of link having a single DOF.
 
